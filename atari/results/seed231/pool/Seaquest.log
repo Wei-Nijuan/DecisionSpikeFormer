@@ -1,0 +1,50 @@
+this buffer has 18187 loaded transitions and there are now 18187 transitions total divided into 10 trajectories
+this buffer has 20788 loaded transitions and there are now 38975 transitions total divided into 20 trajectories
+this buffer has 16193 loaded transitions and there are now 55168 transitions total divided into 30 trajectories
+this buffer has 14023 loaded transitions and there are now 69191 transitions total divided into 40 trajectories
+this buffer has 12754 loaded transitions and there are now 81945 transitions total divided into 50 trajectories
+this buffer has 11143 loaded transitions and there are now 93088 transitions total divided into 60 trajectories
+this buffer has 11579 loaded transitions and there are now 104667 transitions total divided into 70 trajectories
+this buffer has 12549 loaded transitions and there are now 117216 transitions total divided into 80 trajectories
+this buffer has 33688 loaded transitions and there are now 134711 transitions total divided into 90 trajectories
+this buffer has 18326 loaded transitions and there are now 153037 transitions total divided into 100 trajectories
+this buffer has 20842 loaded transitions and there are now 173879 transitions total divided into 110 trajectories
+this buffer has 16461 loaded transitions and there are now 190340 transitions total divided into 120 trajectories
+this buffer has 17723 loaded transitions and there are now 208063 transitions total divided into 130 trajectories
+this buffer has 36726 loaded transitions and there are now 227066 transitions total divided into 140 trajectories
+this buffer has 16700 loaded transitions and there are now 243766 transitions total divided into 150 trajectories
+this buffer has 17983 loaded transitions and there are now 261749 transitions total divided into 160 trajectories
+this buffer has 18170 loaded transitions and there are now 279919 transitions total divided into 170 trajectories
+this buffer has 21403 loaded transitions and there are now 301322 transitions total divided into 180 trajectories
+this buffer has 15982 loaded transitions and there are now 317304 transitions total divided into 190 trajectories
+this buffer has 11727 loaded transitions and there are now 329031 transitions total divided into 200 trajectories
+this buffer has 36350 loaded transitions and there are now 348681 transitions total divided into 210 trajectories
+this buffer has 18544 loaded transitions and there are now 367225 transitions total divided into 220 trajectories
+this buffer has 14246 loaded transitions and there are now 381471 transitions total divided into 230 trajectories
+this buffer has 57045 loaded transitions and there are now 401790 transitions total divided into 240 trajectories
+this buffer has 21924 loaded transitions and there are now 423714 transitions total divided into 250 trajectories
+this buffer has 19398 loaded transitions and there are now 443112 transitions total divided into 260 trajectories
+this buffer has 12722 loaded transitions and there are now 455834 transitions total divided into 270 trajectories
+this buffer has 31692 loaded transitions and there are now 473280 transitions total divided into 280 trajectories
+this buffer has 24094 loaded transitions and there are now 486231 transitions total divided into 290 trajectories
+this buffer has 11398 loaded transitions and there are now 497629 transitions total divided into 300 trajectories
+this buffer has 6130 loaded transitions and there are now 503759 transitions total divided into 310 trajectories
+max rtg is 298
+max timestep is 3171
+Pooling window size:  6
+Pooling window size:  6
+Pooling window size:  6
+Pooling window size:  6
+Pooling window size:  6
+Pooling window size:  6
+using GPU 0
+target return: 1150, eval return: 762
+target return: 1150, eval return: 704
+target return: 1150, eval return: 842
+target return: 1150, eval return: 820
+target return: 1150, eval return: 844
+target return: 1150, eval return: 800
+target return: 1150, eval return: 786
+target return: 1150, eval return: 786
+target return: 1150, eval return: 674
+target return: 1150, eval return: 822

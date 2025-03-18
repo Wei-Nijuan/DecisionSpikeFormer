@@ -1,0 +1,49 @@
+this buffer has 19360 loaded transitions and there are now 19360 transitions total divided into 10 trajectories
+this buffer has 11579 loaded transitions and there are now 30939 transitions total divided into 20 trajectories
+this buffer has 14246 loaded transitions and there are now 45185 transitions total divided into 30 trajectories
+this buffer has 17723 loaded transitions and there are now 62908 transitions total divided into 40 trajectories
+this buffer has 14216 loaded transitions and there are now 77124 transitions total divided into 50 trajectories
+this buffer has 18170 loaded transitions and there are now 95294 transitions total divided into 60 trajectories
+this buffer has 19398 loaded transitions and there are now 114692 transitions total divided into 70 trajectories
+this buffer has 18326 loaded transitions and there are now 133018 transitions total divided into 80 trajectories
+this buffer has 18298 loaded transitions and there are now 151316 transitions total divided into 90 trajectories
+this buffer has 16700 loaded transitions and there are now 168016 transitions total divided into 100 trajectories
+this buffer has 18597 loaded transitions and there are now 186613 transitions total divided into 110 trajectories
+this buffer has 20842 loaded transitions and there are now 207455 transitions total divided into 120 trajectories
+this buffer has 21924 loaded transitions and there are now 229379 transitions total divided into 130 trajectories
+this buffer has 14023 loaded transitions and there are now 243402 transitions total divided into 140 trajectories
+this buffer has 34330 loaded transitions and there are now 259135 transitions total divided into 150 trajectories
+this buffer has 21014 loaded transitions and there are now 280149 transitions total divided into 160 trajectories
+this buffer has 51467 loaded transitions and there are now 297286 transitions total divided into 170 trajectories
+this buffer has 40469 loaded transitions and there are now 315831 transitions total divided into 180 trajectories
+this buffer has 18544 loaded transitions and there are now 334375 transitions total divided into 190 trajectories
+this buffer has 37780 loaded transitions and there are now 352757 transitions total divided into 200 trajectories
+this buffer has 16998 loaded transitions and there are now 369755 transitions total divided into 210 trajectories
+this buffer has 15232 loaded transitions and there are now 384987 transitions total divided into 220 trajectories
+this buffer has 67644 loaded transitions and there are now 401164 transitions total divided into 230 trajectories
+this buffer has 18449 loaded transitions and there are now 419613 transitions total divided into 240 trajectories
+this buffer has 10318 loaded transitions and there are now 429931 transitions total divided into 250 trajectories
+this buffer has 38865 loaded transitions and there are now 447954 transitions total divided into 260 trajectories
+this buffer has 11398 loaded transitions and there are now 459352 transitions total divided into 270 trajectories
+this buffer has 22099 loaded transitions and there are now 469872 transitions total divided into 280 trajectories
+this buffer has 16193 loaded transitions and there are now 486065 transitions total divided into 290 trajectories
+this buffer has 16601 loaded transitions and there are now 502666 transitions total divided into 300 trajectories
+max rtg is 290
+max timestep is 2719
+Pooling window size:  6
+Pooling window size:  6
+Pooling window size:  6
+Pooling window size:  6
+Pooling window size:  6
+Pooling window size:  6
+using GPU 0
+target return: 1150, eval return: 600
+target return: 1150, eval return: 624
+target return: 1150, eval return: 890
+target return: 1150, eval return: 876
+target return: 1150, eval return: 996
+target return: 1150, eval return: 1004
+target return: 1150, eval return: 1166
+target return: 1150, eval return: 902
+target return: 1150, eval return: 1032
+target return: 1150, eval return: 914

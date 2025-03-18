@@ -1,0 +1,32 @@
+Metadata-Version: 2.1
+Name: dopamine-rl
+Version: 2.0.5
+Summary: Dopamine: A framework for flexible Reinforcement Learning research
+Home-page: https://github.com/google/dopamine
+Author: The Dopamine Team
+License: Apache 2.0
+Project-URL: Documentation, https://github.com/google/dopamine
+Project-URL: Bug Reports, https://github.com/google/dopamine/issues
+Project-URL: Source, https://github.com/google/dopamine
+Keywords: dopamine reinforcement-learning python machine learning
+Classifier: Development Status :: 4 - Beta
+Classifier: Intended Audience :: Developers
+Classifier: Intended Audience :: Education
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: Apache Software License
+Classifier: Programming Language :: Python :: 2
+Classifier: Programming Language :: Python :: 2.7
+Classifier: Programming Language :: Python :: 3
+Classifier: Programming Language :: Python :: 3.4
+Classifier: Programming Language :: Python :: 3.5
+Classifier: Programming Language :: Python :: 3.6
+Classifier: Topic :: Scientific/Engineering
+Classifier: Topic :: Scientific/Engineering :: Mathematics
+Classifier: Topic :: Scientific/Engineering :: Artificial Intelligence
+Classifier: Topic :: Software Development
+Classifier: Topic :: Software Development :: Libraries
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+License-File: LICENSE
+License-File: AUTHORS
+
+Dopamine: A framework for flexible Reinforcement Learning research

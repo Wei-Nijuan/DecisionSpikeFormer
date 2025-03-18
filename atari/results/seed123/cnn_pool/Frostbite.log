@@ -1,0 +1,73 @@
+this buffer has 7929 loaded transitions and there are now 7929 transitions total divided into 10 trajectories
+this buffer has 5409 loaded transitions and there are now 13338 transitions total divided into 20 trajectories
+this buffer has 36752 loaded transitions and there are now 50090 transitions total divided into 30 trajectories
+this buffer has 7685 loaded transitions and there are now 57775 transitions total divided into 40 trajectories
+this buffer has 6855 loaded transitions and there are now 64630 transitions total divided into 50 trajectories
+this buffer has 9577 loaded transitions and there are now 74207 transitions total divided into 60 trajectories
+this buffer has 8955 loaded transitions and there are now 83162 transitions total divided into 70 trajectories
+this buffer has 3983 loaded transitions and there are now 87145 transitions total divided into 80 trajectories
+this buffer has 9683 loaded transitions and there are now 96828 transitions total divided into 90 trajectories
+this buffer has 10659 loaded transitions and there are now 107487 transitions total divided into 100 trajectories
+this buffer has 8253 loaded transitions and there are now 115740 transitions total divided into 110 trajectories
+this buffer has 3338 loaded transitions and there are now 119078 transitions total divided into 120 trajectories
+this buffer has 9214 loaded transitions and there are now 128292 transitions total divided into 130 trajectories
+this buffer has 7221 loaded transitions and there are now 135513 transitions total divided into 140 trajectories
+this buffer has 17413 loaded transitions and there are now 144673 transitions total divided into 150 trajectories
+this buffer has 8036 loaded transitions and there are now 152709 transitions total divided into 160 trajectories
+this buffer has 27109 loaded transitions and there are now 162405 transitions total divided into 170 trajectories
+this buffer has 18848 loaded transitions and there are now 172039 transitions total divided into 180 trajectories
+this buffer has 10439 loaded transitions and there are now 182478 transitions total divided into 190 trajectories
+this buffer has 18807 loaded transitions and there are now 192330 transitions total divided into 200 trajectories
+this buffer has 6691 loaded transitions and there are now 199021 transitions total divided into 210 trajectories
+this buffer has 8920 loaded transitions and there are now 207941 transitions total divided into 220 trajectories
+this buffer has 36745 loaded transitions and there are now 217577 transitions total divided into 230 trajectories
+this buffer has 8255 loaded transitions and there are now 225832 transitions total divided into 240 trajectories
+this buffer has 6687 loaded transitions and there are now 232519 transitions total divided into 250 trajectories
+this buffer has 7645 loaded transitions and there are now 236826 transitions total divided into 260 trajectories
+this buffer has 5588 loaded transitions and there are now 242414 transitions total divided into 270 trajectories
+this buffer has 11434 loaded transitions and there are now 248439 transitions total divided into 280 trajectories
+this buffer has 7945 loaded transitions and there are now 256384 transitions total divided into 290 trajectories
+this buffer has 9348 loaded transitions and there are now 265732 transitions total divided into 300 trajectories
+this buffer has 16622 loaded transitions and there are now 270920 transitions total divided into 310 trajectories
+this buffer has 17236 loaded transitions and there are now 280211 transitions total divided into 320 trajectories
+this buffer has 54783 loaded transitions and there are now 316146 transitions total divided into 330 trajectories
+this buffer has 9183 loaded transitions and there are now 325329 transitions total divided into 340 trajectories
+this buffer has 33073 loaded transitions and there are now 358402 transitions total divided into 350 trajectories
+this buffer has 7534 loaded transitions and there are now 365936 transitions total divided into 360 trajectories
+this buffer has 6243 loaded transitions and there are now 372179 transitions total divided into 370 trajectories
+this buffer has 47457 loaded transitions and there are now 382884 transitions total divided into 380 trajectories
+this buffer has 17459 loaded transitions and there are now 393488 transitions total divided into 390 trajectories
+this buffer has 19534 loaded transitions and there are now 402363 transitions total divided into 400 trajectories
+this buffer has 7415 loaded transitions and there are now 409778 transitions total divided into 410 trajectories
+this buffer has 10539 loaded transitions and there are now 420317 transitions total divided into 420 trajectories
+this buffer has 10343 loaded transitions and there are now 430660 transitions total divided into 430 trajectories
+this buffer has 14987 loaded transitions and there are now 437962 transitions total divided into 440 trajectories
+this buffer has 29002 loaded transitions and there are now 447430 transitions total divided into 450 trajectories
+this buffer has 5435 loaded transitions and there are now 452865 transitions total divided into 460 trajectories
+this buffer has 17289 loaded transitions and there are now 470154 transitions total divided into 470 trajectories
+this buffer has 12725 loaded transitions and there are now 477291 transitions total divided into 480 trajectories
+this buffer has 8773 loaded transitions and there are now 482081 transitions total divided into 490 trajectories
+this buffer has 6925 loaded transitions and there are now 489006 transitions total divided into 500 trajectories
+this buffer has 4460 loaded transitions and there are now 493466 transitions total divided into 510 trajectories
+this buffer has 7445 loaded transitions and there are now 500911 transitions total divided into 520 trajectories
+max rtg is 190
+max timestep is 27002
+Namespace(batch_size=128, context_length=30, conv_proj=False, conv_window_size=6, data_dir_prefix='dataset/', epochs=10, game='Frostbite', model_type='reward_conditioned_cnn', n_embd=128, num_buffers=50, num_steps=500000, pooling_size=2, seed=123, token_mixer='pool', trajectories_per_buffer=10)
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Using ConvInterp
+using GPU 0
+target return: 950, eval return: 422
+target return: 950, eval return: 1048
+target return: 950, eval return: 960
+target return: 950, eval return: 1174
+target return: 950, eval return: 1165
+target return: 950, eval return: 1165
+target return: 950, eval return: 1457
+target return: 950, eval return: 1207
+target return: 950, eval return: 1101
+target return: 950, eval return: 475

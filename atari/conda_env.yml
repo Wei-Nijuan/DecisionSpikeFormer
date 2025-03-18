@@ -1,0 +1,26 @@
+name: atari
+channels:
+- pytorch
+dependencies:
+- python=3.7.9
+- pytorch=1.12.1
+#- pytorch-cuda=11.6
+- cudatoolkit=11.3
+#- tensorflow-gpu==1.15
+- numpy
+- psutil
+- opencv
+- pip
+- pip:
+  - atari-py
+  - tensorflow
+  - pyprind
+  - absl-py
+  - gin-config
+  - gym
+  - tqdm
+  - blosc
+#  - git+https://github.com/google/dopamine.git
+#  - tensorflow-gpu>=1.13
+#  - dopamine-rl==2.0.5
+#  - wandb

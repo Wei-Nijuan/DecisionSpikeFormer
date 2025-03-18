@@ -1,0 +1,46 @@
+this buffer has 18597 loaded transitions and there are now 18597 transitions total divided into 10 trajectories
+this buffer has 16193 loaded transitions and there are now 34790 transitions total divided into 20 trajectories
+this buffer has 19398 loaded transitions and there are now 54188 transitions total divided into 30 trajectories
+this buffer has 11579 loaded transitions and there are now 65767 transitions total divided into 40 trajectories
+this buffer has 16700 loaded transitions and there are now 82467 transitions total divided into 50 trajectories
+this buffer has 37780 loaded transitions and there are now 100849 transitions total divided into 60 trajectories
+this buffer has 6130 loaded transitions and there are now 106979 transitions total divided into 70 trajectories
+this buffer has 22099 loaded transitions and there are now 117499 transitions total divided into 80 trajectories
+this buffer has 11143 loaded transitions and there are now 128642 transitions total divided into 90 trajectories
+this buffer has 21924 loaded transitions and there are now 150566 transitions total divided into 100 trajectories
+this buffer has 40469 loaded transitions and there are now 169111 transitions total divided into 110 trajectories
+this buffer has 12285 loaded transitions and there are now 181396 transitions total divided into 120 trajectories
+this buffer has 16799 loaded transitions and there are now 198195 transitions total divided into 130 trajectories
+this buffer has 16928 loaded transitions and there are now 215123 transitions total divided into 140 trajectories
+this buffer has 10658 loaded transitions and there are now 225781 transitions total divided into 150 trajectories
+this buffer has 11398 loaded transitions and there are now 237179 transitions total divided into 160 trajectories
+this buffer has 17111 loaded transitions and there are now 254290 transitions total divided into 170 trajectories
+this buffer has 37500 loaded transitions and there are now 274991 transitions total divided into 180 trajectories
+this buffer has 24094 loaded transitions and there are now 287942 transitions total divided into 190 trajectories
+this buffer has 17983 loaded transitions and there are now 305925 transitions total divided into 200 trajectories
+this buffer has 16461 loaded transitions and there are now 322386 transitions total divided into 210 trajectories
+this buffer has 14216 loaded transitions and there are now 336602 transitions total divided into 220 trajectories
+this buffer has 16455 loaded transitions and there are now 353057 transitions total divided into 230 trajectories
+this buffer has 18449 loaded transitions and there are now 371506 transitions total divided into 240 trajectories
+this buffer has 14246 loaded transitions and there are now 385752 transitions total divided into 250 trajectories
+this buffer has 19831 loaded transitions and there are now 405583 transitions total divided into 260 trajectories
+this buffer has 20842 loaded transitions and there are now 426425 transitions total divided into 270 trajectories
+this buffer has 17137 loaded transitions and there are now 443562 transitions total divided into 280 trajectories
+this buffer has 18298 loaded transitions and there are now 461860 transitions total divided into 290 trajectories
+this buffer has 18170 loaded transitions and there are now 480030 transitions total divided into 300 trajectories
+this buffer has 35573 loaded transitions and there are now 498466 transitions total divided into 310 trajectories
+this buffer has 34330 loaded transitions and there are now 514199 transitions total divided into 320 trajectories
+max rtg is 290
+max timestep is 2805
+Namespace(batch_size=128, context_length=30, conv_proj=False, conv_window_size=6, data_dir_prefix='dataset/', epochs=10, game='Seaquest', model_type='reward_conditioned_cnn', n_embd=128, num_buffers=50, num_steps=500000, pooling_size=2, seed=312, token_mixer='pool', trajectories_per_buffer=10)
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Using ConvInterp
+using GPU 0
+target return: 1150, eval return: 370
+target return: 1150, eval return: 400
+target return: 1150, eval return: 320

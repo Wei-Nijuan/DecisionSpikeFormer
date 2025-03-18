@@ -1,0 +1,41 @@
+this buffer has 23824 loaded transitions and there are now 23824 transitions total divided into 10 trajectories
+this buffer has 13932 loaded transitions and there are now 37756 transitions total divided into 20 trajectories
+this buffer has 28586 loaded transitions and there are now 66342 transitions total divided into 30 trajectories
+this buffer has 26027 loaded transitions and there are now 92369 transitions total divided into 40 trajectories
+this buffer has 28236 loaded transitions and there are now 120605 transitions total divided into 50 trajectories
+this buffer has 27518 loaded transitions and there are now 148123 transitions total divided into 60 trajectories
+this buffer has 32055 loaded transitions and there are now 180178 transitions total divided into 70 trajectories
+this buffer has 27261 loaded transitions and there are now 207439 transitions total divided into 80 trajectories
+this buffer has 29044 loaded transitions and there are now 236483 transitions total divided into 90 trajectories
+this buffer has 26063 loaded transitions and there are now 262546 transitions total divided into 100 trajectories
+this buffer has 25673 loaded transitions and there are now 288219 transitions total divided into 110 trajectories
+this buffer has 28828 loaded transitions and there are now 317047 transitions total divided into 120 trajectories
+this buffer has 23713 loaded transitions and there are now 340760 transitions total divided into 130 trajectories
+this buffer has 16820 loaded transitions and there are now 357580 transitions total divided into 140 trajectories
+this buffer has 54511 loaded transitions and there are now 386418 transitions total divided into 150 trajectories
+this buffer has 26312 loaded transitions and there are now 412730 transitions total divided into 160 trajectories
+this buffer has 82768 loaded transitions and there are now 440987 transitions total divided into 170 trajectories
+this buffer has 49958 loaded transitions and there are now 467232 transitions total divided into 180 trajectories
+this buffer has 24358 loaded transitions and there are now 491590 transitions total divided into 190 trajectories
+this buffer has 56225 loaded transitions and there are now 515760 transitions total divided into 200 trajectories
+max rtg is 549
+max timestep is 5008
+Namespace(batch_size=128, context_length=30, conv_proj=False, conv_window_size=6, data_dir_prefix='dataset/', epochs=10, game='Gopher', model_type='reward_conditioned_cnn', n_embd=128, num_buffers=50, num_steps=500000, pooling_size=2, seed=123, token_mixer='pool', trajectories_per_buffer=10)
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Pooling window size:  2
+Using ConvInterp
+using GPU 0
+target return: 2750, eval return: 684
+target return: 2750, eval return: 760
+target return: 2750, eval return: 592
+target return: 2750, eval return: 968
+target return: 2750, eval return: 506
+target return: 2750, eval return: 796
+target return: 2750, eval return: 570
+target return: 2750, eval return: 558
+target return: 2750, eval return: 630
+target return: 2750, eval return: 446
