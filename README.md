@@ -15,7 +15,7 @@ The Decision SpikeFormer code is in the `gym/models/decision_spikeformer_pssa.py
 
 
 ## Ackownledgements
-Our Decision ConvFormer code is based on [Decision Transformer](https://github.com/kzl/decision-transformer)
+Our Decision SpikeFormer code is based on [Decision Transformer](https://github.com/kzl/decision-transformer)
 
 ## Citation
 ```
