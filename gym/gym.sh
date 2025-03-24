@@ -2,11 +2,10 @@
 model_type_list=("pssa")
 env_list=("hopper" "walker2d" "halfcheetah")
 dataset_list=("medium-replay" "medium-expert" "medium")
-pool_size=6
 cuda=0
-lr=1e-4
-max_iters=100
-embed_dim=256
+lr=1e-4  # {1e-3, 1e-4}
+max_iters=20
+embed_dim=256  # {128,256}
 
 # noseed_gym_attn2_dt是local window size设置为2， 默认是设置为3的
 
@@ -23,7 +22,6 @@ do
   do
       for env in "${env_list[@]}";
       do
-          embed_dim=$embed_dim
           echo $cuda
           echo $env-$dataset-$model_type
           nohup bash -c "CUDA_VISIBLE_DEVICES=$cuda python -u experiment.py \
@@ -38,12 +36,7 @@ do
             --setting_name=$setting_name \
             --num_steps_per_iter=$num_steps_per_iter \
             --num_eval_episodes=10 \
-            --pool_size=$pool_size \
             > ./$log_dir/$env-$dataset-$model_type.log 2>&1" &
-          cuda=$((cuda+1))
-          if [ $cuda -eq 4 ]; then
-              cuda=0
-          fi
       done
   done
 done
